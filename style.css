@@ -1,0 +1,30 @@
+p.q1 {
+  color: white;
+  font-family: Helvetica, sans-serif;
+}
+
+p.q2 {
+  color: white;
+  font-family: Helvetica, sans-serif;
+}
+
+p.q3 {
+  color: white;
+  font-family: Helvetica, sans-serif;
+}
+
+p.q4 {
+  color: white;
+  font-family: Helvetica, sans-serif;
+}
+
+img.home {
+  padding-top: 30;
+  width: 500;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+body {
+  background-color: black;
+}
