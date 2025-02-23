@@ -13,6 +13,10 @@ img.home {
   margin-bottom: auto;
 }
 
+div.space1 {
+  height: 80;
+}
+
 footer {
   text-align: center;
 }
