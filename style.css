@@ -13,6 +13,14 @@ img.home {
   margin-bottom: auto;
 }
 
+img.button {
+  width: 750;
+  display: block;
+  margin-top: -629;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 div.space1 {
   height: 90;
 }
