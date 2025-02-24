@@ -21,6 +21,10 @@ img.button {
   margin-right: auto;
 }
 
+img.button:hover {
+  filter: invert;
+}
+
 div.space1 {
   height: 90;
 }
