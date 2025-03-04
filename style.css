@@ -2,6 +2,7 @@ p {
   color: white;
   font-family: Helvetica, sans-serif;
   text-align: center;
+  font-weight: bold;
 }
 
 img.q1 {
@@ -17,16 +18,15 @@ img.q1 {
 img.q3 {
   width: 250;
   display: block;
-  margin-left: 400;
+  margin-left: auto;
   margin-right: auto;
 }
 
 img.q4 {
   width: 250;
   display: block;
-  margin-top: -250;
   margin-left: auto;
-  margin-right: 400;
+  margin-right: auto;
 }
 
 div.space1 {
