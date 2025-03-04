@@ -16,5 +16,7 @@ p {
   width: 850;
   margin-left: auto;
   margin-right: auto;
+  padding-top: 40;
+  padding-bottom: 40;
 }
 
