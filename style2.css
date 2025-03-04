@@ -11,5 +11,10 @@ h1 {
 p {
   font-family: Helvetica, sans-serif;
   text-align: center;
-  font-weight: bold;
+}
+
+p.italics {
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+  font-weight: italic;
 }
