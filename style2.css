@@ -22,7 +22,7 @@ p.home {
   text-align: center;
 }
 
-p {
+p.text {
   font-family: Helvetica, sans-serif;
   line-height: 1.5;
   width: 850;
