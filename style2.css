@@ -2,8 +2,13 @@ footer {
   text-align: center;
 }
 
+h1 {
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+  font-weight: bold;
+}
+
 p {
-  color: white;
   font-family: Helvetica, sans-serif;
   text-align: center;
   font-weight: bold;
