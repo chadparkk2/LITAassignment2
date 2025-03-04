@@ -1,3 +1,9 @@
+p.italic {
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+  font-weight: italic;
+}
+
 footer {
   text-align: center;
 }
@@ -11,12 +17,9 @@ h1 {
 p {
   font-family: Helvetica, sans-serif;
   text-align: center;
+  line-spacing: 1.5;
   margin-left: 500;
   margin-right: 500;
 }
 
-p.italic {
-  font-family: Helvetica, sans-serif;
-  text-align: center;
-  font-weight: italic;
-}
+
