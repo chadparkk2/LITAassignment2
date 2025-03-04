@@ -5,6 +5,10 @@ p {
   font-weight: bold;
 }
 
+a {
+display: inline-block;
+}
+
 h1 {
   color: white;
   font-family: Helvetica, sans-serif;
