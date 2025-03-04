@@ -6,9 +6,13 @@ p {
 }
 
 a {
-display: inline-block;
+  display: block;
+  width: 500;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
 }
-
 h1 {
   color: white;
   font-family: Helvetica, sans-serif;
